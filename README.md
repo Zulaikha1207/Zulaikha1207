@@ -1,7 +1,4 @@
-### Hi there 👋
-
-![MasterHead](https://user-images.githubusercontent.com/66233477/212568451-289c5bd3-936d-445e-98b5-f905cd668bb9.png)
-
+![MasterHead](https://user-images.githubusercontent.com/66233477/212568536-74d6c99e-b26f-4725-a1e5-618592e00b27.png)
 
 - 🔭 I’m currently working as an MLOps & AI intern at IBM CIC Gronigen, NL. Previous to this, I completed my MSc in Artificial Intelligence at the University if Groningen. My thesis was about understanding the effects of meditation and positive rumination on individuals suffering from Major Depressive Disorder (MDD). I used machine learning and reservior computing for this.
 - 🌱 I’m currently learning to deploy machine learning models using MLOps concepts and tools. Additionally, I'm currently following the [Iterative Tools for Data Scientists and Analysts course](https://learn.iterative.ai/course/data-scientist-path). Here, I'm learning how to write production level code/scripts, use DVC and Git for versoning and more. I'm also following a [NLP With Transformers in Python course](https://www.udemy.com/course/nlp-with-transformers/)!
