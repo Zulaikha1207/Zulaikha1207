@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![MasterHead]([your image link](https://liyasthomas.github.io/banner/))]([your GitHub link](https://github.com/Zulaikha1207))
+![banner](https://user-images.githubusercontent.com/66233477/212568451-289c5bd3-936d-445e-98b5-f905cd668bb9.png)
 
 
 - 🔭 I’m currently working as an MLOps & AI intern at IBM CIC Gronigen, NL. Previous to this, I completed my MSc in Artificial Intelligence at the University if Groningen. My thesis was about understanding the effects of meditation and positive rumination on individuals suffering from Major Depressive Disorder (MDD). I used machine learning and reservior computing for this.
